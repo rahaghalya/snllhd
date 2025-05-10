@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff0f5;
+    color: #333;
+  }
+  
+  header {
+    background: linear-gradient(to bottom right, #ffc0cb, #fff0f5);
+    text-align: center;
+    padding: 60px 20px;
+  }
+  
+  header h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 48px;
+    color: #c2185b;
+  }
+  
+  header p {
+    font-size: 20px;
+    margin: 10px 0 20px;
+  }
+  
+  .btn {
+    background: #c2185b;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .gallery img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  
+  iframe {
+    width: 100%;
+    max-width: 600px;
+    height: 300px;
+    border-radius: 12px;
+    margin-top: 20px;
+  }
+  
+  
